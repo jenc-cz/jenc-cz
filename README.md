@@ -1,6 +1,6 @@
 [![Website](https://img.shields.io/website?url=https://jenc.jecool.net/&style=plastic&label=https://jenc.jecool.net/)](https://jenc.jecool.net/)  
-[![Website](https://img.shields.io/website?url=http://dvo.wz.cz/&style=plastic&label=http://dvo.wz.cz/)](http://dvo.wz.cz/)  
-[![Website](https://img.shields.io/website?url=http://plicni.wz.cz/&style=plastic&label=http://plicni.wz.cz/)](http://plicni.wz.cz/)
+[![Website](https://img.shields.io/website?url=http://plicni.wz.cz/&style=plastic&label=http://plicni.wz.cz/)](http://plicni.wz.cz/)  
+[![Website](https://img.shields.io/website?url=http://dvo.wz.cz/&style=plastic&label=http://dvo.wz.cz/)](http://dvo.wz.cz/)
 
 ## 🌐Socials
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/jenc-cz) 
