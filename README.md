@@ -1,4 +1,4 @@
-[![YouTube Badge](https://img.shields.io/website?url=https://jenc.jecool.net/&style=plastic&label=https://jenc.jecool.net/)](https://jenc.jecool.net/)
+[![Website](https://img.shields.io/website?url=https://jenc.jecool.net/&style=plastic&label=https://jenc.jecool.net/)](https://jenc.jecool.net/)
 
 https://img.shields.io/website?url=https://jenc.jecool.net/&style=plastic&label=https://jenc.jecool.net/
 https://img.shields.io/website?url=http://dvo.wz.cz/&style=plastic&label=http://dvo.wz.cz/
