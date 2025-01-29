@@ -1,3 +1,7 @@
+https://img.shields.io/website?url=https://jenc.jecool.net/&style=plastic&label=https://jenc.jecool.net/
+https://img.shields.io/website?url=http://dvo.wz.cz/&style=plastic&label=http://dvo.wz.cz/
+https://img.shields.io/website?url=http://plicni.wz.cz/&style=plastic&label=http://plicni.wz.cz/
+
 ## 🌐Socials
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Jenc) 
 
